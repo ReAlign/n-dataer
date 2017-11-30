@@ -1,0 +1,25 @@
+{
+  "name": "n-dataer",
+  "version": "0.0.1",
+  "description": "a data tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReAlign/n-dataer.git"
+  },
+  "keywords": [
+    "data",
+    "help",
+    "tool",
+    "node"
+  ],
+  "author": "ReAlign",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReAlign/n-dataer/issues"
+  },
+  "homepage": "https://github.com/ReAlign/n-dataer#readme"
+}
